@@ -2,4 +2,4 @@
 
 # Toy Project! ✍️
 
-> 1. [testcode 작성]()
+> 1. [testcode 작성](https://github.com/sjh9391985/TIL/tree/main/book/springboot_aws/testcode.md)
